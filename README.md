@@ -8,3 +8,5 @@ Finally, I introduced the min_child_weight parameter, setting it to 3, which pro
 Importantly, the model was balanced in its predictions: the classification report showed that it correctly predicted patients without heart disease 80% of the time, and correctly identified patients with heart disease 82% of the time.
 
 Overall, this project was a significant milestone in my journey to becoming a stronger data scientist. I not only improved model performance, but also gained hands-on experience with feature engineering, model tuning, and performance evaluation, all of which are essential tools for adapting machine learning models to achieve higher accuracy.
+
+dataset: https://www.kaggle.com/datasets/winson13/heart-disease-dataset
